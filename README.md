@@ -18,9 +18,25 @@ Built with TypeScript and React Native (Expo).
 
 ## Skills
 
-**Frontend:** React, React Native, TypeScript, JavaScript, HTML, CSS  
-**Backend:** C#, Node.js, REST APIs, database design
-**General:** Full-stack development, state management, component design, working with APIs
+**Frontend:** 
+- React
+- React Native
+- TypeScript
+- JavaScript
+- HTML
+- CSS
+
+**Backend:**
+- C#
+- Node.js
+- REST APIs
+- database design
+  
+**General:**
+- Full-stack development
+- state management
+- component design
+- working with APIs
 
 ## What I've Learned From
 
@@ -30,7 +46,7 @@ I've experimented with a few other projects—CarpoolManager (a carpool optimiza
 
 Bachelor's degree in Talmudic Law. Currently studying while developing projects and tutoring on the side.
 
-## Let's Talk
+## Get In Contact 
 
 I'm looking to work on something meaningful. If you're looking to hire someone or building something and think I could help, reach out.
 
