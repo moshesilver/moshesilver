@@ -24,7 +24,7 @@ Built with TypeScript and React Native (Expo).
 
 ## What I've Learned From
 
-I've experimented with a few other projects—CarpoolManager (a carpool optimization platform) taught me the hard way that you need to understand the problem space before picking your tools. ShnayimMikrah (a Talmud study tracking app) showed me how quickly technical debt adds up. Both are paused, but they're good reminders about building thoughtfully.
+I've experimented with a few other projects—CarpoolManager (a carpool optimization platform) taught me the hard way that you need to understand the problem space before picking your tools. ShnayimMikrah (a Bible study tracking app) showed me how quickly technical debt adds up. Both are paused, but they're good reminders about building thoughtfully.
 
 ## Background
 
