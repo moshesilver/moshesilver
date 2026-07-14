@@ -4,9 +4,9 @@ I'm a developer building mobile and web applications with React and TypeScript. 
 
 ## What I'm Working On
 
-**BalanceLedger** – A mobile app for tracking debts and shared expenses between friends. It intelligently balances overlapping debts so you can see exactly who owes whom and how much. Still in development, but the core is working and I'm adding features based on how I actually use it.
+**BalanceLedger** – A mobile app for tracking debts and shared expenses between friends. It intelligently balances overlapping debts so you can see exactly who owes whom and how much. Still in development, but the core is working and I'm adding features based on how I actually use it. Built with TypeScript and React Native (Expo).
 
-Built with TypeScript and React Native (Expo).
+**YeshivaVanTracker** - A web app for keeping track of my school's student van. It's a place to log each time a student borrows the vehicle. This helps manage trip related expenses as they come up. The program is being designed to help automativally connect each expense to the correct driver based on the logged date and time. Built with Typescript and React Native (Expo).
 
 ## Experience
 
@@ -40,7 +40,9 @@ Built with TypeScript and React Native (Expo).
 
 ## What I've Learned From
 
-I've experimented with a few other projects—CarpoolManager (a carpool optimization platform) taught me the hard way that you need to understand the problem space before picking your tools. ShnayimMikrah (a Bible study tracking app) showed me how quickly technical debt adds up. Both are paused, but they're good reminders about building thoughtfully. I plan on eventually rebuilding them.
+I've experimented with a few other projects:
+**CarpoolManager** (a carpool optimization platform) taught me the hard way that you need to understand the problem space before picking your tools. **ShnayimMikrah** (a Bible study tracking app) showed me how quickly technical debt adds up. Both are paused, but they're good reminders about building thoughtfully. I plan on eventually rebuilding them. **MineSweeper** was one of my first programming efforts, and was built while learning JavaScript with no prior experience. It's a browser-based implementation of the classic game that taught me the fundamentals of vanilla JavaScript, HTML, and CSS. You can [play it here](https://moshesilver.github.io/MineSweeper/).
+
 
 ## Background
 
